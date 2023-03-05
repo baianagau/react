@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 1px 500px;
+
+}
+
+.itemList {
+    display: flex;
+}
+
+.title {
+
+}

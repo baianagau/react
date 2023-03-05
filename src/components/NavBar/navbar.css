@@ -1,0 +1,43 @@
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(228, 199, 230);
+    color: white;
+}
+
+.nav_brand {
+    display: flex;
+    margin-right: 10px;
+}
+
+.nav_brand a {
+    color: black;
+
+}
+
+.nav_list {
+    display: flex;
+    list-style: none;
+    overflow-x: auto;
+}
+
+.nav_link {
+    color:black;
+    margin: 12px;
+}
+
+.nav_cart {
+    display: flex;
+    justify-content: flex-end;
+    color: black;
+}
+
+a {
+    margin-left: 15px;
+}

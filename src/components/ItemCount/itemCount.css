@@ -1,0 +1,14 @@
+.counter {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    background-color:rgb(228, 199, 230);
+    width: fit-content;
+    margin:auto;
+    padding: 1rem;
+    color: black;
+}
+
+.counter button {
+    margin: 1px 1px 1px 1px;
+}
