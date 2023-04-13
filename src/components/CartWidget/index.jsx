@@ -7,7 +7,7 @@ const {totalProducts} = useCartContext();
 
     return (
         <i className="bi bi-cart4"></i>
-    <span>{totalProducts () || ''}</span>
+   
     );
 }
 
